@@ -17,3 +17,6 @@
 	path = third_party/libjingle/source/talk
 	url = https://chromium.googlesource.com/external/webrtc/trunk/talk.git
 	branch = b7037034bc843dd1e7ff8a3b40439f8ead2dd823
+[submodule "mojo"]
+	path = mojo
+	url = https://github.com/Tarnyko/chromium-mojo

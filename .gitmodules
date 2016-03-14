@@ -20,3 +20,6 @@
 [submodule "mojo"]
 	path = mojo
 	url = https://github.com/Tarnyko/chromium-mojo
+[submodule "build"]
+	path = build
+	url = https://github.com/Tarnyko/chromium-build

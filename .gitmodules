@@ -1,0 +1,19 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/Tarnyko/chromium-tools
+[submodule "third_party/webrtc"]
+	path = third_party/webrtc
+	url = https://chromium.googlesource.com/external/webrtc/trunk/webrtc.git
+	branch = 71ae2ea48a6b6c42eb79bfd70acf888056b6a711
+[submodule "third_party/catapult"]
+	path = third_party/catapult
+	url = https://github.com/catapult-project/catapult.git
+	branch = 506457cbd726324f327b80ae11f46c1dfeb8710d
+[submodule "third_party/flac"]
+	path = third_party/flac
+	url = https://chromium.googlesource.com/chromium/deps/flac.git
+	branch = 2c4b86af352b23498315c016dc207e3fb2733fc0
+[submodule "third_party/libjingle/source/talk"]
+	path = third_party/libjingle/source/talk
+	url = https://chromium.googlesource.com/external/webrtc/trunk/talk.git
+	branch = b7037034bc843dd1e7ff8a3b40439f8ead2dd823
